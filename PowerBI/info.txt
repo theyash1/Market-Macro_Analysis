@@ -1,0 +1,1 @@
+Various visuals have been added to the dashboard to better understand the data.
